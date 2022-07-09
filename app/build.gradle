@@ -10,7 +10,7 @@ android {
     defaultConfig {
         applicationId "io.nuovothoth.nuovothothsamples"
         minSdk 28
-        targetSdk 31
+        targetSdk 30
         versionCode 1
         versionName "1.0"
 
