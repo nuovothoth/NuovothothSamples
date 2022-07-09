@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_fragment_home"
+        android:icon="@drawable/selector_bottomnav_home"
+        android:title="home" />
+
+    <item
+        android:id="@+id/nav_fragment_dialogContents"
+        android:icon="@drawable/selector_bottomnav_hive"
+        android:title="hive" />
+
+    <item
+        android:id="@+id/nav_fragment_media"
+        android:icon="@drawable/selector_bottomnav_extension"
+        android:title="extension" />
+
+    <item
+        android:id="@+id/nav_fragment_dialog_history"
+        android:icon="@drawable/selector_bottomnav_local_play"
+        android:title="localplay" />
+</menu>
